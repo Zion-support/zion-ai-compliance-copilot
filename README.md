@@ -1,26 +1,23 @@
-# Zion AI Compliance Copilot
+# ⚖️ Zion AI Compliance Copilot
 
-Continuous AI compliance — maps every AI system to the EU AI Act, NIST AI RMF and ISO/IEC 42001, backed by live enforcement evidence instead of spreadsheets.
+Continuous AI compliance mapping to **EU AI Act, NIST AI RMF and ISO/IEC 42001**. Part of the **Zion AI Security & Trust Suite (Batch 71)**.
 
-**Live app:** https://ziontechgroup.com/zion-ai-compliance-copilot/
+## What it does
+- Inventories your AI systems and classifies them by regulatory risk tier
+- Maps controls to EU AI Act articles, NIST AI RMF functions and ISO 42001 clauses
+- Generates gap analyses and audit-ready evidence packs
+- Tracks regulatory change and re-scores your posture automatically
 
-## Features
-- Automatic control mapping across EU AI Act, NIST AI RMF, ISO 42001
-- Pulls enforcement signals from [Prompt Injection Shield](https://ziontechgroup.com/zion-prompt-shield/), [Data Loss Guardian](https://ziontechgroup.com/zion-data-guardian/) and [Model Integrity Monitor](https://ziontechgroup.com/zion-model-integrity/)
-- Gap analysis with prioritized remediation and audit-ready reports
-- Regulation change tracking with impact alerts
+## Key features
+- Control inheritance across models, datasets and vendors
+- One-click exports for auditors (PDF/CSV/JSON)
+- Works with evidence from [Zion Model Integrity](https://github.com/Zion-support/zion-model-integrity) and [Zion AI Red Team](https://github.com/Zion-support/zion-ai-red-team)
+- Alerts routed via [Zion Incident Triage](https://github.com/Zion-support/zion-incident-triage)
 
-## Part of the Zion AI Security & Trust Suite (Batch 71)
-- [Zion AI Red Team Studio](https://ziontechgroup.com/zion-ai-red-team/) · [repo](https://github.com/Zion-support/zion-ai-red-team)
-- [Zion Prompt Injection Shield](https://ziontechgroup.com/zion-prompt-shield/) · [repo](https://github.com/Zion-support/zion-prompt-shield)
-- [Zion Data Loss Guardian](https://ziontechgroup.com/zion-data-guardian/) · [repo](https://github.com/Zion-support/zion-data-guardian)
-- [Zion Model Integrity Monitor](https://ziontechgroup.com/zion-model-integrity/) · [repo](https://github.com/Zion-support/zion-model-integrity)
-- [Zion Incident Triage AI](https://ziontechgroup.com/zion-incident-triage/) · [repo](https://github.com/Zion-support/zion-incident-triage)
+## 🔗 Zion App Network
+- Suite hub: [zion-network](https://github.com/Zion-support/zion-network) · [network.json](https://github.com/Zion-support/zion-network/blob/main/network.json)
+- Sister apps: [Zion Prompt Shield](https://github.com/Zion-support/zion-prompt-shield) · [Zion Data Guardian](https://github.com/Zion-support/zion-data-guardian) · [Zion AI Red Team](https://github.com/Zion-support/zion-ai-red-team) · [Zion Model Integrity](https://github.com/Zion-support/zion-model-integrity) · [Zion Incident Triage](https://github.com/Zion-support/zion-incident-triage)
+- 🌐 [ziontechgroup.com](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/) · [Discovery call ($99)](https://ziontechgroup.com/discovery/)
 
-## Network
-- Hub: https://ziontechgroup.com/zion-app-network/ · Apps: https://ziontechgroup.com/apps/
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html
-- Blog: https://ziontechgroup.com/blog/ai-security-trust-suite/
-- Plans: https://ziontechgroup.com/en/plans/ (Discovery $99 · Consulting $499 · Starter $2,500 · Growth $8,000/mo)
-
-© 2026 Zion Tech Group — MIT License
+## License
+MIT — © Zion Tech Group
